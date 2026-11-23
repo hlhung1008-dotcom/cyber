@@ -1,2 +1,5 @@
-# cyber
-cyber-css-animation
+# 加密備份
+
+`caveduck_backup.7z` 是加密壓縮檔（AES-256，檔名也加密）。
+
+用 7-Zip 開啟並輸入密碼即可解壓。沒有密碼無法看到任何內容。
